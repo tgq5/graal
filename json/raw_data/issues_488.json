@@ -1,0 +1,222 @@
+[
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44175",
+        "earliest_issue_date": "2025-02-08T14:44:51Z",
+        "fix_commit_hash": "54a11aba6e526f59c7d4f08a773fda8ff6c987c7",
+        "tipo": "Commit",
+        "commit_author": "St\u00e9phane Nicoll",
+        "commiter": "St\u00e9phane Nicoll",
+        "commit_date": "2025-02-08T15:44:54+01:00",
+        "committer_data": "2025-02-08T15:44:54+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44173",
+        "earliest_issue_date": "2025-02-08T14:44:43Z",
+        "fix_commit_hash": "16467c4f9058a566745f924ef43c9ec0637c2b76",
+        "tipo": "Commit",
+        "commit_author": "St\u00e9phane Nicoll",
+        "commiter": "St\u00e9phane Nicoll",
+        "commit_date": "2025-02-08T15:44:46+01:00",
+        "committer_data": "2025-02-08T15:44:46+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44170",
+        "earliest_issue_date": "2025-02-08T10:08:46Z",
+        "fix_commit_hash": "cc5414826a0291537c083f5e550a32f11f4ed446",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2025-02-08T10:08:43+00:00",
+        "committer_data": "2025-02-08T10:08:43+00:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "adoc"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44167",
+        "earliest_issue_date": "2025-02-07T20:45:15Z",
+        "fix_commit_hash": "1623ea17dfe209a7e58531e52beebb83dee9176e",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2025-02-18T17:53:49+00:00",
+        "committer_data": "2025-02-18T17:53:49+00:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44165",
+        "earliest_issue_date": "2025-02-07T20:45:06Z",
+        "fix_commit_hash": "33d7d5e6ec47e7584e52156fb854988f6c38f1b7",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2025-02-18T17:53:48+00:00",
+        "committer_data": "2025-02-18T17:53:48+00:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44163",
+        "earliest_issue_date": "2025-02-07T20:44:57Z",
+        "fix_commit_hash": "473515cad2c650b4d7ece39534b950abd3c0df72",
+        "tipo": "Commit",
+        "commit_author": "St\u00e9phane Nicoll",
+        "commiter": "St\u00e9phane Nicoll",
+        "commit_date": "2025-02-19T09:45:14+01:00",
+        "committer_data": "2025-02-19T09:45:14+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44161",
+        "earliest_issue_date": "2025-02-07T20:44:48Z",
+        "fix_commit_hash": "ac5cad67a0b608575efba4233b2acbe36707f11e",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2025-02-18T17:53:48+00:00",
+        "committer_data": "2025-02-18T17:53:48+00:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44159",
+        "earliest_issue_date": "2025-02-07T20:44:40Z",
+        "fix_commit_hash": "755ef855879543c1a68c1ae697d06ecb66c422cd",
+        "tipo": "Commit",
+        "commit_author": "St\u00e9phane Nicoll",
+        "commiter": "St\u00e9phane Nicoll",
+        "commit_date": "2025-02-14T17:16:12+01:00",
+        "committer_data": "2025-02-14T17:16:12+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44157",
+        "earliest_issue_date": "2025-02-07T20:44:31Z",
+        "fix_commit_hash": "bc36485e6a623de9add07b568fdf4f4fd74ce3a8",
+        "tipo": "Commit",
+        "commit_author": "St\u00e9phane Nicoll",
+        "commiter": "St\u00e9phane Nicoll",
+        "commit_date": "2025-02-11T15:28:04+01:00",
+        "committer_data": "2025-02-11T15:43:20+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/44155",
+        "earliest_issue_date": "2025-02-07T20:44:22Z",
+        "fix_commit_hash": "e180e7aff2d887b7e68bdef18a88f29bdb1557d7",
+        "tipo": "Commit",
+        "commit_author": "St\u00e9phane Nicoll",
+        "commiter": "St\u00e9phane Nicoll",
+        "commit_date": "2025-02-11T15:27:46+01:00",
+        "committer_data": "2025-02-11T15:29:40+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "gradle"
+        ]
+    }
+]
