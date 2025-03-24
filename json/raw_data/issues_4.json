@@ -1,42 +1,52 @@
 [
     {
         "fix_commit_hash": "718aee8c24fa5e0581ca9d2a0f0ec1e9178e16f4",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-05-17T15:31:30+02:00"
     },
     {
         "fix_commit_hash": "01135c19e990277519ca06b7e00276e2f2f42d62",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2021-08-19T11:05:43+02:00"
     },
     {
         "fix_commit_hash": "6b155418f62bdc9edd15803cea2a273b99566313",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-04-25T12:33:23+02:00"
     },
     {
         "fix_commit_hash": "c9b48696393423536627773a2da26677d036d4e8",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-03-26T17:52:47+01:00"
     },
     {
         "fix_commit_hash": "746c8af7233a4a22484b6fccb3e2a5512eaf5753",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2018-08-17T14:09:12-04:00"
     },
     {
         "fix_commit_hash": "8cc57572ca92d934e77c3a6cd46023c42d0e85fd",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-07-31T10:17:56-07:00"
     },
     {
         "fix_commit_hash": "9fa7c84693989da1702a25e43163acab75468d03",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2017-12-12T13:07:09-08:00"
     },
     {
         "fix_commit_hash": "1c5da6662dd2f4d4ff6c12ff718b5c48a41e640f",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2017-11-08T11:32:05+01:00"
     },
     {
         "fix_commit_hash": "50c31c3d225e151f391676bae2cbb4a1f3dab315",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-05-11T12:01:52+02:00"
     },
     {
         "fix_commit_hash": "93082738a70c3fc31e0756cff477f198c0c8cb03",
-        "repo_name": "graal"
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2020-07-04T17:25:42+02:00"
     }
 ]
