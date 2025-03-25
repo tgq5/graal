@@ -1,6 +1,6 @@
 import json
 import os
-input_file = "./json/raw_data/bics.json"
+input_file = "./json/raw_data/final.json"
 # Carregar o JSON de um arquivo
 with open(input_file, 'r') as file:
     data = json.load(file)

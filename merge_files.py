@@ -2,7 +2,7 @@ from utils.utils import merge_files
 import os
 import json
 
-merge_files('./json/bics', './json/raw_data/bics.json')
+merge_files('./json/raw_data', './json/raw_data/issues.json')
 
 # for i in range(1, 31):
 # #     merge_files(f'./json/jabref/v{i}', f'./json/raw_data/merged_data_{i}.json')
