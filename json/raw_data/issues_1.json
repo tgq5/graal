@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "26352c8872a6dfa23490d36dce812fd0fad79c77",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2020-09-14T16:35:31+02:00"
+    },
+    {
+        "fix_commit_hash": "d0b3cd25d25ed2e0d88d253856577d19fc57711c",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-01-25T17:58:17+01:00"
+    },
+    {
+        "fix_commit_hash": "ae48abaae5bcf6901b137fb28b512e3caa4e9ee8",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2018-05-09T14:34:01+02:00"
+    },
+    {
+        "fix_commit_hash": "d059f0d959c408ae3fa65a85c7cc1a51d66c883f",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2018-07-04T23:17:17+02:00"
+    },
+    {
+        "fix_commit_hash": "84516d367c30a9493ceab8b96043512a45442536",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2020-02-06T14:30:32+00:00"
+    },
+    {
+        "fix_commit_hash": "4d82a37c4a3b0281f1c2682e33b198938013c1ac",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2023-05-17T10:33:56+02:00"
+    },
+    {
+        "fix_commit_hash": "1de9b43e5da86b0cfae553b10ca0d9ce042f825e",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2017-06-12T02:38:21+02:00"
+    },
+    {
+        "fix_commit_hash": "d539c162a99cc4281099001d1b901f22a9deda2e",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2018-03-09T10:25:55-08:00"
+    },
+    {
+        "fix_commit_hash": "0c28f4cdca82433dda88f26c38de660dfc51ca1b",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2018-10-09T23:41:27+02:00"
+    },
+    {
+        "fix_commit_hash": "a7e19cd48993d28a1a55c132893ceb8c0eadcef0",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2019-06-03T13:31:22+10:00"
+    }
+]
