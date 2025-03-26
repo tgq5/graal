@@ -1,0 +1,12 @@
+[
+    {
+        "fix_commit_hash": "99ff8a1a35866f3b222a0db16aed13789a1b70c5",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2017-07-07T18:37:03+02:00"
+    },
+    {
+        "fix_commit_hash": "4b148d67d5d0d1b0a1ffccf4843a60320f02b678",
+        "repo_name": "graal",
+        "best_scenario_issue_date": "2014-04-22T18:55:03+02:00"
+    }
+]
